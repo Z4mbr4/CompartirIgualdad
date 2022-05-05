@@ -4,6 +4,8 @@ Desarrollo en python para compartir archivos mediante una web local.
 Realizado a partir de la materia Aplicaciones Libres de la Universidad del Comahue Regional Curza.
 
 **Su instalación:**
+Requiere tener instalado pip:
+`sudo apt install python3-pip`
 
 `pip install CompartirIgualdad`
 
