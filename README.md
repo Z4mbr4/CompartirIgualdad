@@ -2,6 +2,8 @@
 **Su instalación:**
 Requiere tener instalado pip:
 `sudo apt install python3-pip`
+
+
 **Dependencias:****
 
 `pip install colorama flask flask_httpauth werkzeug pyopenssl updog`
