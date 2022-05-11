@@ -8,7 +8,7 @@ Requiere tener instalado pip:
 
 `pip install colorama flask flask_httpauth werkzeug pyopenssl updog`
 
-****Instalación:**
+**Instalación:**
 `pip install CompartirIgualdad`
 
 **Crear Variable de entorno:**
