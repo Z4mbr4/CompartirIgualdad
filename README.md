@@ -1,12 +1,12 @@
 # Compartir Igualdad
-Desarrollo en python para compartir archivos mediante una web local.
-
-Realizado a partir de la materia Aplicaciones Libres de la Universidad del Comahue Regional Curza.
-
 **Su instalación:**
 Requiere tener instalado pip:
 `sudo apt install python3-pip`
+**Dependencias:****
 
+`pip install colorama flask flask_httpauth werkzeug pyopenssl updog`
+
+****Instalación:**
 `pip install CompartirIgualdad`
 
 **Crear Variable de entorno:**
