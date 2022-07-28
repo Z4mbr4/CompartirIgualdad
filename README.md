@@ -1,7 +1,7 @@
 # Compartir Igualdad
 **Su instalación:**
 Requiere tener instalado pip:
-`sudo apt install python3-pip`
+`sudo apt install python3-pip python3-path`
 
 
 **Dependencias:**
@@ -11,6 +11,8 @@ Requiere tener instalado pip:
 **Instalación:**
 `pip install CompartirIgualdad`
 
+**En este momento podes ejecutar en la terminal el comando CompartirIgualdad**
+**Solo si dice: "El comando no existe entonces seguimos con el siguiente paso:**
 **Crear Variable de entorno:**
 
 `export CompartirIgualdad="$HOME/.local/bin/CompartirIgualdad"`
