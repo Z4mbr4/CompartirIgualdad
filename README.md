@@ -25,3 +25,6 @@ Código Fuente: https://github.com/Z4mbr4/CompartirIgualdad/
 - Pararse en la carpeta que desea compartir
 - Ejecutar el comando **$CompartirIgualdad**
 - En su pantalla tendra una descripción con un link para poder ingresar desde su navegador favorito y/o compartir en la red local.
+
+**Presentaci:**
+https://github.com/Z4mbr4/CompartirIgualdad/blob/main/CompartirIgualdad.pdf
